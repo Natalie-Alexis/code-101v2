@@ -15,10 +15,6 @@ a{
     font-weight: bold;
 }
 
-article {
-    text-align: center;
-}
-
 header {
     padding: 10px;
     background:#DB7093;
@@ -27,6 +23,10 @@ header {
     border-style: solid;
     border-color: white;
     border-width: 5px
+}
+
+article {
+    text-align: center;
 }
 
 nav {
