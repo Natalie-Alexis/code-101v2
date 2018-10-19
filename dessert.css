@@ -15,6 +15,10 @@ a{
     font-weight: bold;
 }
 
+article {
+    text-align: center;
+}
+
 header {
     padding: 10px;
     background:#DB7093;
